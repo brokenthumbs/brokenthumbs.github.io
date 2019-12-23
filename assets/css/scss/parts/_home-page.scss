@@ -43,13 +43,12 @@
     &::after {
       content: "";
       position: absolute;
-      left: 50%;
+      left: calc(50% - 110px);
       transform: translateX(-50%);
       bottom: 0;
       display: block;
-      width: 7px;
-      height: 7px;
-      border-radius: 100%;
+      width: 220px;
+      height: 1px;
       background-color: $body-color;
     }
   }
