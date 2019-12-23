@@ -8,7 +8,9 @@ site-twitter:
 
 author: Dan Chan
 author-img: dan-chan.jpg
-about-author: "software engineer @ galileo.io"
+about-author: >
+  software engineer @ galileo.io<br />
+  hello world <br />
 social-twitter: brokenthumbs
 social-instagram: brokenthumbs
 social-github: brokenthumbs
