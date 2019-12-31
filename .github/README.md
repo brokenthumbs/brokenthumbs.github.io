@@ -6,6 +6,7 @@
 - https://github.com/artemsheludko/flexible-jekyll
 - https://matthewdevaney.com/posts/2019/03/12/custom-domains-with-github-pages-and-google-domains/
 - https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#in-this-article
+- https://developer.spotify.com/branding-guidelines/
 
 ## Notes
 
