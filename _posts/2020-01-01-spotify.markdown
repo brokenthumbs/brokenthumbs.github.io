@@ -7,4 +7,4 @@ img: Spotify_Logo_RGB_Green.png
 tags: [spotify]
 ---
 
-<iframe src="https://open.spotify.com/embed/playlist/2IztMPJnfGnJrbReiBBHZf" width="800" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<div align="center"><iframe src="https://open.spotify.com/embed/playlist/2IztMPJnfGnJrbReiBBHZf" width="480" height="360" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
